@@ -1,0 +1,14 @@
+batch_create_virtual_spines.py:批量生成虚拟骨骼标记点数据
+DataShape.py:数据变形
+GPA:点数据集对齐
+OperateFile.py:文件操作
+pca_example.py:
+pca_iris.py:pca莺尾花数据集
+pca_resources.py:pca源代码
+pca_show_matplot.py:体素化数据显示
+pca_test1.py:主代码
+points_to_stl.py:点数据集生成stl
+showStl:显示stl模型
+stl_get_point.py:stl模型标记点
+stl_spines_to_points:输出stl模型点坐标
+test.py:测试
